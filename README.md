@@ -13,37 +13,12 @@
     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝  ╚═════╝                                           
 -->
 
-<!-- ======================= HEADER OPTIONS ======================= -->
-<!-- OPTION 1: Simple capsule-render (most likely to work) -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=woven&color=gradient&customColorList=12&height=300&section=header&text=Manoj%20Kumar%20Arroju&fontSize=50&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Microservices%20Expert&descSize=20&descAlignY=75)
+<!-- HEADER IMAGE - Upload header.svg to your repo root -->
+<img src="./header.svg" alt="Manoj Kumar Arroju - Full-Stack Developer" width="100%"/>
 
 </div>
-
-<!-- 
-======================= ALTERNATIVE HEADERS =======================
-If the above doesn't work, try one of these alternatives:
-
-OPTION 2: Wave style (simpler, more reliable)
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=200&section=header&text=Manoj%20Kumar%20Arroju&fontSize=50&fontColor=ffffff)
-
-OPTION 3: Slice style
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Manoj%20Kumar%20Arroju&fontSize=40&fontColor=fff)
-
-OPTION 4: Soft style (very simple)
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Manoj%20Kumar%20Arroju&fontSize=40)
-
-OPTION 5: Rect with theme (uses predefined theme)
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Kumar%20Arroju&fontSize=40&theme=tokyonight)
-
-OPTION 6: Static image header (upload header.png to your repo)
-<img src="./header.png" alt="Manoj Kumar Arroju" width="100%"/>
-
-OPTION 7: Typing SVG alternative
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=800&height=100&lines=Manoj+Kumar+Arroju;Full-Stack+Developer;Cloud+Architect;Microservices+Expert)](https://git.io/typing-svg)
-======================= END ALTERNATIVES =======================
--->
 
 <br/>
 
@@ -340,7 +315,7 @@ My goal is to build software that doesn't just work—it excels. Software that s
 <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square"/> <img src="https://img.shields.io/badge/Scale-10K+_Events/Sec-blue?style=flat-square"/>
 
 #### Project Overview
-Engineered a highly scalable, event-driven architecture capable of processing massive data streams in real-time. This system demonstrates enterprise-level distributed systems design with fault tolerance and automated recovery mechanisms.
+Engineered a highly scalable, event-driven architecture capable of processing massive data streams in real-time.
 
 #### Technical Architecture
 
@@ -352,56 +327,24 @@ Technology Stack:
   IaC: Terraform
   Orchestration: Kubernetes
   Monitoring: Prometheus, Grafana
-  Languages: Java, Python, Scala
 ```
 
 #### Core Achievements
-
-**🚀 Scalability & Performance**
-- Engineered event-driven architecture processing **10,000+ events per second** with linear scalability
-- Implemented distributed data processing pipeline using **Apache Spark** for real-time analytics on streaming data
-- Achieved sub-second latency for 95th percentile of event processing operations
-- Designed horizontal scaling strategy supporting 10x traffic growth without architecture changes
-
-**☁️ Cloud Infrastructure & Automation**
-- Automated complete cloud infrastructure provisioning on **AWS and GCP** using **Terraform** and Infrastructure as Code principles
-- Implemented multi-region deployment strategy for high availability and disaster recovery
-- Reduced infrastructure deployment time from 4 hours to 15 minutes through automation
-- Built cost optimization strategies reducing cloud spending by 30% while maintaining performance
-
-**🛡️ Fault Tolerance & Reliability**
-- Designed fault-tolerant system with automated failover and recovery mechanisms ensuring 99.95% uptime
-- Implemented circuit breaker patterns preventing cascade failures across distributed services
-- Built comprehensive monitoring and alerting system for proactive issue detection
-- Created automated backup and recovery procedures with RPO < 5 minutes
-
-**📊 Real-Time Analytics**
-- Developed real-time data aggregation pipelines providing business insights with minimal latency
-- Implemented stream processing for complex event correlation and pattern detection
-- Built dashboards for real-time system monitoring and business metrics visualization
-
-#### Technical Highlights
-- **Event Processing**: Kafka consumer groups with exactly-once semantics
-- **Data Pipeline**: Spark Structured Streaming with watermarking
-- **Infrastructure**: Multi-AZ deployment with auto-scaling
-- **Security**: End-to-end encryption, IAM roles, network segmentation
-
-#### Business Impact
-✅ Enabled real-time decision making through instant data processing  
-✅ Reduced infrastructure costs through efficient resource utilization  
-✅ Achieved enterprise-grade reliability standards (99.95% uptime)  
-✅ Supported 10x business growth without system redesign  
+- Engineered event-driven architecture processing **10,000+ events per second**
+- Automated cloud infrastructure provisioning using **Terraform**
+- Designed fault-tolerant system ensuring **99.95% uptime**
+- Reduced infrastructure deployment time from 4 hours to 15 minutes
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Security Monitoring & Anomaly Detection System
+### 🔐 Security Monitoring & Anomaly Detection
 **`AI-Powered Threat Detection Platform`**
 
 <img src="https://img.shields.io/badge/Status-Production_Deployed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Accuracy-+22%25_Improvement-green?style=flat-square"/>
 
 #### Project Overview
-Built an intelligent security log analysis system leveraging machine learning algorithms to detect threats and anomalies in real-time. This project showcases expertise in AI/ML integration, security engineering, and automated monitoring systems.
+Built an intelligent security log analysis system leveraging machine learning for real-time threat detection.
 
 #### Technical Architecture
 
@@ -410,69 +353,15 @@ Technology Stack:
   Backend: Python, FastAPI
   ML Framework: Scikit-learn, TensorFlow
   Database: PostgreSQL, TimescaleDB
-  Message Queue: RabbitMQ
-  Monitoring: ELK Stack (Elasticsearch, Logstash, Kibana)
+  Monitoring: ELK Stack
   Deployment: Docker, Kubernetes
-  Cloud: AWS (Lambda, S3, CloudWatch)
 ```
 
 #### Core Achievements
-
-**🤖 Machine Learning & Algorithm Optimization**
-- Built automated security log analysis system using **Python** and advanced **machine learning algorithms** for threat detection
-- Improved threat detection accuracy by **22%** through systematic algorithm optimization and feature engineering
-- Implemented ensemble learning techniques combining multiple models for robust predictions
-- Developed custom anomaly detection algorithms tailored to security event patterns
-
-**⚡ Real-Time Processing & Alerting**
-- Implemented real-time alerting system with configurable thresholds and multi-channel notification (email, Slack, PagerDuty)
-- Processed **100,000+ log entries per minute** with sub-second detection latency
-- Built intelligent alert prioritization system reducing false positives by 40%
-- Created automated incident response workflows for common threat patterns
-
-**🔧 API Development & System Integration**
-- Developed comprehensive RESTful API endpoints for system monitoring, configuration management, and threat investigation
-- Implemented role-based access control (RBAC) for secure multi-user access
-- Built integration connectors for popular SIEM platforms and security tools
-- Created webhook support for seamless integration with existing security workflows
-
-**📊 Analytics & Reporting**
-- Designed interactive dashboards for security metrics visualization and trend analysis
-- Built automated reporting system generating daily/weekly security summaries
-- Implemented historical threat pattern analysis for proactive security planning
-- Created compliance reporting features for audit requirements
-
-#### Machine Learning Pipeline
-
-**Data Preprocessing**
-- Log parsing and normalization from multiple sources
-- Feature extraction and engineering (50+ security-relevant features)
-- Time-series feature creation for temporal pattern detection
-
-**Model Training & Validation**
-- Supervised learning for known threat patterns
-- Unsupervised learning for zero-day threat detection
-- Continuous model retraining with new threat intelligence
-- Cross-validation ensuring model generalization
-
-**Production Deployment**
-- Model versioning and A/B testing framework
-- Gradual rollout strategy for new model versions
-- Performance monitoring and model drift detection
-- Automated rollback on accuracy degradation
-
-#### Security Features
-- **Threat Detection**: Brute force attacks, privilege escalation, data exfiltration
-- **Anomaly Detection**: Unusual access patterns, suspicious API calls
-- **Compliance**: GDPR, HIPAA, SOC2 audit trail support
-- **Integration**: SIEM platforms, ticketing systems, cloud security tools
-
-#### Business Impact
-✅ Reduced security incident response time by 60%  
-✅ Decreased false positive alerts by 40%  
-✅ Enabled proactive threat hunting capabilities  
-✅ Achieved compliance audit requirements  
-✅ Protected sensitive data with 22% better detection  
+- Improved threat detection accuracy by **22%**
+- Processed **100,000+ log entries per minute**
+- Reduced false positives by **40%**
+- Reduced security incident response time by **60%**
 
 </td>
 </tr>
@@ -489,68 +378,16 @@ Technology Stack:
 
 <img src="https://img.shields.io/badge/Type-Full_Stack-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square"/>
 
-#### Project Overview
-Architected and developed a comprehensive e-commerce platform demonstrating enterprise-level microservices design patterns with independent service deployment, scalability, and cloud-native deployment strategies.
-
 #### Technical Stack
+- **Backend**: Spring Boot, Spring Security, JWT
+- **Frontend**: React.js, Redux, Material-UI
+- **Infrastructure**: AWS, Docker, Kubernetes
 
-```yaml
-Technology Stack:
-  Backend Services:
-    - Product Catalog: Spring Boot, PostgreSQL
-    - User Service: Spring Boot, JWT, Spring Security
-    - Shopping Cart: Spring Boot, Redis
-    - Order Management: Spring Boot, MySQL
-    - Payment Gateway: Spring Boot, Stripe Integration
-  
-  Frontend:
-    - Framework: React.js
-    - State Management: Redux
-    - UI Library: Material-UI
-    - Responsive: Mobile-first design
-  
-  Infrastructure:
-    - Cloud: AWS (EC2, S3, RDS, ElastiCache)
-    - Containers: Docker
-    - Orchestration: Kubernetes
-    - Gateway: Spring Cloud Gateway
-    - Service Discovery: Eureka
-    - Config Management: Spring Cloud Config
-```
-
-#### Architectural Highlights
-
-**🏗️ Microservices Design**
-- Implemented **5 independent microservices** with separate databases (Database per Service pattern)
-- Built **API Gateway** for centralized routing, authentication, and load balancing
-- Designed **service mesh** for inter-service communication with circuit breakers
-- Implemented **event-driven architecture** using message queues for asynchronous operations
-
-**🎨 Frontend Excellence**
-- Built responsive **React.js** application with Redux for centralized state management
-- Implemented **Material-UI** components ensuring consistent design language
-- Created **mobile-first responsive design** working seamlessly across all devices
-- Developed **Progressive Web App (PWA)** features for offline capability
-
-**🔒 Security Implementation**
-- Integrated **Spring Security** with **JWT tokens** for stateless authentication
-- Implemented **OAuth 2.0** for third-party login (Google, Facebook)
-- Built **role-based access control (RBAC)** for admin and customer roles
-- Secured all API endpoints with proper authentication and authorization
-
-**☁️ Cloud Deployment**
-- Deployed microservices to **AWS** with containerization using **Docker**
-- Orchestrated services using **Kubernetes** for automated scaling and self-healing
-- Implemented **CI/CD pipeline** with Jenkins for automated testing and deployment
-- Configured **auto-scaling** based on CPU and memory metrics
-
-#### Key Features Implemented
-✅ User registration, authentication, and profile management  
-✅ Product catalog with search, filtering, and pagination  
-✅ Shopping cart with real-time updates  
-✅ Secure checkout process with payment integration  
-✅ Order tracking and history  
-✅ Admin dashboard for inventory and order management  
+#### Key Features
+✅ 5 independent microservices  
+✅ JWT authentication with OAuth 2.0  
+✅ CI/CD pipeline with Jenkins  
+✅ Auto-scaling based on metrics  
 
 </td>
 <td width="50%" valign="top">
@@ -560,151 +397,16 @@ Technology Stack:
 
 <img src="https://img.shields.io/badge/AI_Powered-Machine_Learning-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Full_Stack-Python_+_React-green?style=flat-square"/>
 
-#### Project Overview
-Built an intelligent note-taking application leveraging Python backend with AI-powered features for content organization, automatic categorization, and smart recommendations. Demonstrates full-stack Python development with practical AI/ML integration.
-
-#### Technical Architecture
-
-```yaml
-Technology Stack:
-  Backend:
-    - Framework: Flask
-    - ML Libraries: Scikit-learn, NLTK, spaCy
-    - NLP: Transformers, BERT embeddings
-    - Database: PostgreSQL with full-text search
-    - Cache: Redis
-    - API: RESTful with JWT authentication
-  
-  Frontend:
-    - Framework: React.js
-    - State: Context API
-    - UI: Custom iOS-inspired design
-    - Real-time: WebSocket for live updates
-  
-  AI/ML Features:
-    - Text Classification
-    - Named Entity Recognition (NER)
-    - Semantic Search
-    - Auto-summarization
-    - Smart Tagging
-```
-
-#### AI-Powered Features
-
-**🧠 Natural Language Processing**
-- Integrated **NLP algorithms** for automatic note categorization based on content analysis
-- Implemented **smart tagging system** using entity recognition and keyword extraction
-- Built **semantic search** enabling natural language queries across all notes
-- Developed **auto-summarization** feature condensing long notes into key points
-
-**🔍 Intelligent Search & Discovery**
-- Implemented **full-text search** with PostgreSQL for fast content retrieval
-- Built **semantic similarity search** using BERT embeddings for finding related notes
-- Created **context-aware recommendations** suggesting relevant notes based on current work
-- Developed **smart filters** for finding notes by date, category, tags, or content
-
-**📊 Content Analysis & Insights**
-- Built **sentiment analysis** tracking emotional tone of notes over time
-- Implemented **topic modeling** identifying recurring themes across note collection
-- Created **productivity insights** dashboard showing writing patterns and statistics
-- Developed **knowledge graph** visualization of note relationships
-
-**⚡ Real-Time Collaboration**
-- Implemented **WebSocket connections** for real-time note synchronization
-- Built **conflict resolution** algorithms for simultaneous editing
-- Created **version history** with diff visualization
-- Developed **collaborative editing** features with user presence indicators
-
-#### Machine Learning Pipeline
-
-**Model Training**
-- Trained custom classification models on 100,000+ labeled notes
-- Fine-tuned BERT model for domain-specific note categorization
-- Implemented transfer learning for improved accuracy with limited data
-- Built continuous learning pipeline incorporating user feedback
-
-**Feature Engineering**
-- Extracted 50+ features from note content (length, structure, entities)
-- Created time-based features for temporal pattern detection
-- Built user behavior features for personalized recommendations
-- Implemented TF-IDF and word embeddings for text representation
-
-#### Technical Highlights
-✅ Sub-second search across 10,000+ notes  
-✅ 90%+ accuracy in automatic categorization  
-✅ Real-time collaboration with <100ms latency  
-✅ Mobile-responsive design for on-the-go access  
-✅ Offline-first architecture with sync capabilities  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📋 Task Manager RESTful API
-**`Enterprise-Grade Backend Service`**
-
-<img src="https://img.shields.io/badge/Backend-Spring_Boot-green?style=flat-square"/> <img src="https://img.shields.io/badge/Security-JWT_Authentication-red?style=flat-square"/>
-
 #### Technical Stack
+- **Backend**: Flask, Scikit-learn, NLTK, spaCy
+- **Frontend**: React.js, WebSocket
+- **Database**: PostgreSQL with full-text search
 
-```yaml
-Technology Stack:
-  Framework: Spring Boot 3.x
-  Security: Spring Security + JWT
-  Database: MySQL
-  ORM: Spring Data JPA, Hibernate
-  Build: Maven
-  Testing: JUnit, Mockito, MockMVC
-  Documentation: Swagger/OpenAPI
-  API Testing: Postman
-```
-
-#### Core Features
-- Comprehensive **CRUD operations** for task management
-- **JWT token-based authentication** with refresh token support
-- **Role-based access control (RBAC)** for multi-user security
-- Advanced **filtering and sorting** capabilities
-- **Pagination** for large datasets
-- **Input validation** and comprehensive error handling
-
-#### Technical Achievements
-✅ Built 15+ RESTful endpoints following best practices  
-✅ Implemented service layer with SOLID principles  
-✅ Achieved 80%+ test coverage with unit and integration tests  
-✅ Created detailed API documentation with Swagger  
-✅ Optimized database queries reducing response time by 40%  
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Personal Portfolio Website
-**`Professional Web Presence`**
-
-<img src="https://img.shields.io/badge/Frontend-HTML_CSS_JS-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Design-Responsive-blue?style=flat-square"/>
-
-#### Technical Stack
-
-```yaml
-Technology Stack:
-  Frontend: HTML5, CSS3, JavaScript
-  Design: Custom CSS animations
-  Responsive: Mobile-first approach
-  Performance: Optimized assets
-  Deployment: GitHub Pages
-```
-
-#### Features
-- **Responsive design** working flawlessly on all devices
-- **Custom animations** for engaging user experience
-- **Project showcase** with detailed case studies
-- **Contact form** with form validation
-- **Performance optimized** for fast loading
+#### Key Features
+✅ Auto-categorization with 90%+ accuracy  
+✅ Semantic search using BERT embeddings  
+✅ Real-time collaboration  
+✅ Smart tagging system  
 
 </td>
 </tr>
@@ -714,10 +416,8 @@ Technology Stack:
 
 ---
 
-<br/>
-
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=woven&color=gradient&customColorList=12&height=120&section=footer)
+### 💻 Made with ❤️ by Manoj Kumar Arroju
 
 </div>
