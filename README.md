@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- HEADER IMAGE - Upload https://via.placeholder.com/1200x300/1a1a2e/00d4ff?text=Manoj+Kumar+Arroju+-+Full+Stack+Developer to your repo root -->
-<img src="./https://via.placeholder.com/1200x300/1a1a2e/00d4ff?text=Manoj+Kumar+Arroju+-+Full+Stack+Developer" alt="Manoj Kumar Arroju - Full-Stack Developer" width="100%"/>
+<img src="https://via.placeholder.com/1200x300/1a1a2e/00d4ff?text=Manoj+Kumar+Arroju+-+Full+Stack+Developer" alt="Manoj Kumar Arroju - Full-Stack Developer" width="100%"/>
 
 </div>
 
