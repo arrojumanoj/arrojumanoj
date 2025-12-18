@@ -13,11 +13,37 @@
     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝  ╚═════╝                                           
 -->
 
+<!-- ======================= HEADER OPTIONS ======================= -->
+<!-- OPTION 1: Simple capsule-render (most likely to work) -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=Manoj%20Kumar%20Arroju&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20Microservices%20Expert&descSize=18&descAlign=50&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=woven&color=gradient&customColorList=12&height=300&section=header&text=Manoj%20Kumar%20Arroju&fontSize=50&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Microservices%20Expert&descSize=20&descAlignY=75)
 
 </div>
+
+<!-- 
+======================= ALTERNATIVE HEADERS =======================
+If the above doesn't work, try one of these alternatives:
+
+OPTION 2: Wave style (simpler, more reliable)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=200&section=header&text=Manoj%20Kumar%20Arroju&fontSize=50&fontColor=ffffff)
+
+OPTION 3: Slice style
+![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Manoj%20Kumar%20Arroju&fontSize=40&fontColor=fff)
+
+OPTION 4: Soft style (very simple)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Manoj%20Kumar%20Arroju&fontSize=40)
+
+OPTION 5: Rect with theme (uses predefined theme)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Kumar%20Arroju&fontSize=40&theme=tokyonight)
+
+OPTION 6: Static image header (upload header.png to your repo)
+<img src="./header.png" alt="Manoj Kumar Arroju" width="100%"/>
+
+OPTION 7: Typing SVG alternative
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=800&height=100&lines=Manoj+Kumar+Arroju;Full-Stack+Developer;Cloud+Architect;Microservices+Expert)](https://git.io/typing-svg)
+======================= END ALTERNATIVES =======================
+-->
 
 <br/>
 
@@ -692,6 +718,6 @@ Technology Stack:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=woven&color=gradient&customColorList=12&height=120&section=footer)
 
 </div>
