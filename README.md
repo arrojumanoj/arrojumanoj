@@ -2,7 +2,7 @@
 ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗      ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
 ████╗ ████║██╔══██╗████╗  ██║██╔═══██╗     ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
 ██╔████╔██║███████║██╔██╗ ██║██║   ██║     ██║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██   ██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██   ██║    ██╔═██╗ ██║   ██║██╔████╔██║██╔══██║██╔══██╗
 ██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝╚█████╔╝    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
      █████╗ ██████╗ ██████╗  ██████╗      ██╗██╗   ██╗                                          
@@ -14,7 +14,9 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=Manoj%20Kumar%20Arroju&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20Full-Stack%20Developer%20◉%20Cloud%20Architect%20◉%20Microservices%20Expert%20◉&descSize=18&descAlign=50&descAlignY=75" />
+
+![Header](https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=Manoj%20Kumar%20Arroju&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20Microservices%20Expert&descSize=18&descAlign=50&descAlignY=75)
+
 </div>
 
 <br/>
@@ -676,4 +678,20 @@ Technology Stack:
 - **Custom animations** for engaging user experience
 - **Project showcase** with detailed case studies
 - **Contact form** with form validation
-- **Performance optim
+- **Performance optimized** for fast loading
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=120&section=footer)
+
+</div>
